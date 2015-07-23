@@ -3,13 +3,19 @@
     "type": "library",
     "description": "Simple PHP 5 Email Class with Chainable Methods",
     "keywords": ["email","php5"],
-    "homepage": "https://github.com/eoghanobrien/php-simple-mail",
+    "homepage": "https://github.com/ztormab/php-simple-mail",
     "license": "MIT",
     "authors": [
         {
             "name": "Eoghan O'Brien",
             "email": "eoghan@eoghanobrien.com",
             "homepage": "http://www.eoghanobrien.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Per Persson",
+            "email": "per.persson@exertisztorm.com",
+            "homepage": "http://exertisztorm.com",
             "role": "Developer"
         }
     ],
