@@ -1,5 +1,5 @@
 {
-    "name": "eoghanobrien/php-simple-mail",
+    "name": "ztorm/php-simple-mail",
     "type": "library",
     "description": "Simple PHP 5 Email Class with Chainable Methods",
     "keywords": ["email","php5"],
